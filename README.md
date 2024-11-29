@@ -15,10 +15,10 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes pontos:
 
 - [x] [Introdução ao Linux](Introdução/1_Introducao.md)
-- [x] [Distros](Introdução/2_Distros.md)
-- [ ] Certificações
-- [ ] 
-- [ ] 
+- [x] [Comandos GUN e UNIX](Comandos_GNU_UNIX/1_Sistemas_de_arquivos.md)
+- [ ] [Conhecendo o Shell]()
+- [ ] [Editores de texto]()
+- [ ] [Gerenciando contas de usuário]()
 
 ## 💻 Pré-requisitos
 
