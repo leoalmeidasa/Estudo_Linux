@@ -75,4 +75,8 @@ As certificações Linux são credenciais profissionais que validam o conhecimen
 ## Conclusão
 Certificações Linux são um diferencial competitivo para profissionais de TI, oferecendo reconhecimento e oportunidades em um mercado cada vez mais dependente de sistemas Linux. Escolher a certificação certa depende da experiência, metas de carreira e preferências pessoais.
 
+## Observações
+[Lpi Essentials](https://www.lpi.org/pt-br/our-certifications/linux-essentials-overview/)
+
+
 Ir para: [Comandos](../Comandos_GNU_UNIX/1_Sistemas_de_arquivos.md)
