@@ -15,8 +15,8 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes pontos:
 
 - [x] [Introdução ao Linux](Introdução/1_Introducao.md)
-- [x] Distros
-- [ ] 
+- [x] [Distros](Introdução/2_Distros.md)
+- [ ] Certificações
 - [ ] 
 - [ ] 
 
