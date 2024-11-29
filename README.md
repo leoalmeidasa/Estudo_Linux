@@ -6,7 +6,8 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-![linux-logo-3793382FC8-seeklogo com](https://github.com/user-attachments/assets/8621b67e-e9cc-4929-bde9-f223970effeb)
+
+![Symbol-Linux](https://github.com/user-attachments/assets/3be30049-d744-43ef-bcc6-44f828ad089c)
 
 > Estudos sobre Linux !
 
