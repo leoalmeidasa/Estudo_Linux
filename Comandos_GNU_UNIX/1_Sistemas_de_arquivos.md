@@ -81,4 +81,4 @@ O sistema de arquivos do Ubuntu segue a estrutura hierárquica do padrão **File
 ## **Conclusão**
 O sistema de arquivos do Ubuntu é organizado e eficiente, seguindo padrões amplamente reconhecidos. Ele oferece flexibilidade, segurança e controle, facilitando o gerenciamento do sistema e arquivos, tanto para iniciantes quanto para usuários avançados.
 
-Ir para: [Arquivos](Comandos_GNU_UNIX/2_Arquivos.md)
+Ir para: [Arquivos](2_Arquivos.md)

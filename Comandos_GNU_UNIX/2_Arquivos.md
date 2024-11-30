@@ -134,4 +134,4 @@ nome de um arquivo, explicando melhor:
 
 O gerenciamento de arquivos no Linux é versátil e robusto, oferecendo controle detalhado sobre permissões, estrutura e manipulação. Entender a organização e os comandos básicos é essencial para trabalhar de forma eficiente no sistema.
 
-Ir para: [Arquivos](Comandos_GNU_UNIX/3_Gerenciando_arquivos.md)
+Ir para: [Arquivos](3_Gerenciando_arquivos.md)
