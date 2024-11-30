@@ -14,8 +14,8 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes pontos:
 
-- [x] [Introdução ao Linux](1 Introdução/1_Introducao.md)
-- [x] [Comandos GNU e UNIX](2 Comandos GNU e UNIX/1_Sistemas_de_arquivos.md)
+- [x] [Introdução ao Linux](1_Introdução/1_Introducao.md)
+- [x] [Comandos GNU e UNIX](2_Comandos/1_Sistemas_de_arquivos.md)
 - [ ] [Conhecendo o Shell]()
 - [ ] [Editores de texto]()
 - [ ] [Gerenciando contas de usuário]()
