@@ -119,4 +119,3 @@ No Linux, a manipulação de arquivos é realizada principalmente por meio do te
 ## **Conclusão**
 
 O domínio dos comandos básicos para operações de arquivos no Linux é essencial para a administração do sistema e manipulação eficiente de dados. Esses comandos oferecem ferramentas poderosas e flexíveis para realizar tarefas do dia a dia.
-```
