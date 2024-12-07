@@ -119,6 +119,7 @@ tar [OPÇÕES] [ARQUIVO_TAR] [ARQUIVOS/DIRETÓRIOS]
   ```
 
 Com esses exemplos e opções, o `tar` se torna uma ferramenta poderosa para manipulação de arquivos no Linux.
-```
+
 
 Ir para: [Shell](../Shell/1_Introducao.md)
+
