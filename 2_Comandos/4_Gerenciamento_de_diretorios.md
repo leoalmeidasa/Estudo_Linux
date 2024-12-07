@@ -125,6 +125,5 @@ Exibe a estrutura de diretórios em forma de árvore.
 | `grep`   | Buscar texto em arquivos               | Moderado           |
 | `fd`     | Alternativa moderna ao `find`          | Muito rápido       |
 
-```
 
 Ir para: [Caracteres e Operadores](5_Caracteres_e_operadores.md)
