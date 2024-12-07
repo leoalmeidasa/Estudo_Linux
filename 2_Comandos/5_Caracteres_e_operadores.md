@@ -83,6 +83,5 @@ Usados para manipular permissões de arquivos.
 ---
 
 Com esses operadores, você pode manipular e executar tarefas no Linux de forma eficiente.
-```
 
 Ir para: [Comando Tar](6_Comando_tar.md)
