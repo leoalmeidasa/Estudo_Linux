@@ -1,10 +1,5 @@
 ### Resumo do Uso do `tar` no Linux
 
-Abaixo está um resumo dos principais usos do comando `tar`, formatado para GitHub Markdown.
-
-```markdown
-# Resumo do Uso do `tar` no Linux
-
 O comando `tar` (Tape Archive) é usado para criar, extrair e manipular arquivos compactados ou não compactados.
 
 ---
