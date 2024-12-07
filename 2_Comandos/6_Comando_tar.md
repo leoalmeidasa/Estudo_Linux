@@ -120,6 +120,4 @@ tar [OPÇÕES] [ARQUIVO_TAR] [ARQUIVOS/DIRETÓRIOS]
 
 Com esses exemplos e opções, o `tar` se torna uma ferramenta poderosa para manipulação de arquivos no Linux.
 
-
-Ir para: [Shell](../Shell/1_Introducao.md)
-
+Ir para: [Comandos Gunzip e Gzip](7_Comandos_gunzip_e_gzip.md)

@@ -115,6 +115,5 @@ gunzip [OPÇÕES] [ARQUIVO(S)]
   ```
 
 Com esses comandos, você pode facilmente compactar e descompactar arquivos no Linux usando `gzip` e `gunzip`.
-```
 
 Ir para: [Comandos](../Shell/1_Sistemas_de_arquivos.md)
