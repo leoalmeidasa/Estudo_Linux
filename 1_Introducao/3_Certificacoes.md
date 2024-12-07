@@ -79,4 +79,4 @@ Certificações Linux são um diferencial competitivo para profissionais de TI, 
 [Lpi Essentials](https://www.lpi.org/pt-br/our-certifications/linux-essentials-overview/)
 
 
-Ir para: [Comandos](../Comandos_GNU_UNIX/1_Sistemas_de_arquivos.md)
+Ir para: [Comandos](../Comandos/1_Sistemas_de_arquivos.md)

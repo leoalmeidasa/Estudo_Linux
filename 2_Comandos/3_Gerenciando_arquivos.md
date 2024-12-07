@@ -28,7 +28,8 @@ No Linux, a manipulação de arquivos é realizada principalmente por meio do te
 | `less`/`more`    | Exibe o conteúdo de arquivos com rolagem.                              |
 | `head`           | Exibe as primeiras linhas de um arquivo.                               |
 | `tail`           | Exibe as últimas linhas de um arquivo.                                 |
-| `wc`             | Conta palavras, linhas e caracteres de um arquivo.                    |
+| `wc`             | Conta palavras, linhas e caracteres de um arquivo.                     | 
+| `ps`             | mostra apenas os processos associados ao terminal atual.               |
 
 ---
 
@@ -114,8 +115,17 @@ No Linux, a manipulação de arquivos é realizada principalmente por meio do te
    find / -name log.txt
    ```
 
----
+6. **O comando é útil para localizar processos específicos em um sistema com muitos processos ativos**:
+   ```bash
+   ps aux | grep exemplo
+   ```
+   - ps aux lista todos os processos.
+   - | (pipe) passa a saída do ps aux como entrada para o grep.
+   - grep exemplo filtra as linhas que contêm a palavra exemplo.
+   ---
 
 ## **Conclusão**
 
 O domínio dos comandos básicos para operações de arquivos no Linux é essencial para a administração do sistema e manipulação eficiente de dados. Esses comandos oferecem ferramentas poderosas e flexíveis para realizar tarefas do dia a dia.
+
+Ir para: [Gerenciamento de diretorios](4_Gerenciamento_de_diretorios.md)
